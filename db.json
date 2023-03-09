@@ -1,0 +1,20 @@
+{
+    "notes": [
+      {
+        "title": "John Lennonffg",
+        "content": " Life is what happens when you're busy making other plans.",
+        "id": 2
+      },
+      {
+        "title": "Mae WestzaX",
+        "content": "You only live once, but if you do it right, once is enough.",
+        "id": 4
+      },
+      {
+        "id": 5,
+        "title": "Quote 5",
+        "content": "Keep Note app solution development in progress. Header design completed. Code to display notes in progress."
+      }
+    ],
+    "users": []
+  }
